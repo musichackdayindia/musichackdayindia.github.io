@@ -7,19 +7,19 @@
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
   name: Agenda
-  info: Check out the agenda
+  info: Check out the agenda of the program
   link: /2016/agenda
 
 - inverted: 
   img: icon-team.jpeg
   name: Team
-  info: Find out the team members
+  info: Find out the attendees of the program
   link: /2016/team
 
 - inverted: timeline-inverted
   img: icon-venue.jpeg
   name: Venue
-  info: Learn more about our location
+  info: Learn more about the location of the program
   link: /2016/venue
 
 - inverted: 
