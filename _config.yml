@@ -1,8 +1,8 @@
-title: Your Title
+title: MHD-India 2019
 description: > # this means to ignore newlines until "baseurl:"
   Your description
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "Your-Link.github.io" # the base hostname & protocol for your site
+url: "musichackdayindia.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
@@ -33,3 +33,4 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
