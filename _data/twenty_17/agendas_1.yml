@@ -1,5 +1,8 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 9:00 AM - 10:00 PM
+  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Opening Ceremony"
+
+- time: 10:00 AM - 11:00 PM
+  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Tea/Coffee - Networking"
 
 - time: 12:00 PM - 3:00 PM
   info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
