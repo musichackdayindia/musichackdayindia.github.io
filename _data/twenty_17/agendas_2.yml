@@ -1,5 +1,17 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Panel discussion</u><br><b>Music and technology...... blah blah</b><br><i>Position</i><br><br>Topic"
+- time: 9:00 AM - 12:00 PM
+  info: "<u>Hackathon</u><br><b>Continue hacks at the venue</b><br><i>Main Hall</i><br><br>"
 
-- time: 12:00 PM - 3:00 PM
-  info: "<u>Closing ceremony</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 12:30 PM - 13:30 PM
+  info: "<u>Hack presentations</u><br><b>Presentation of hack projects by the participants</b><br><i>Main Hall</i><br><br>"
+
+- time: 13:30 PM - 14:30 PM
+  info: "<u>Lunch</u><br><b>Lunch will be provided to the participants</b><br><i>Cafeteria</i><br><br>"
+
+- time: 15:00 PM - 16:00 PM
+  info: "<u>Panel Discussion</u><br><b>Use of technology in understanding Indian music traditions (TBD)</b><br><i>Main Hall</i><br><br>With panelists such as Dr. Xavier Serra and more (to be announced)"
+
+- time: 16:00 PM - 17:00 PM
+  info: "<u>Prize distribution</u><br><b>Closing ceremony and prize distribution to hackathon participants</b><br><i>Main Hall</i><br><br>"
+
+- time: 17:00 PM onwards
+  info: "<u>Networking</u><br><b>Networking with attendees, mentors and organisers at a social place nearby</b><br><i>Self-organised</i><br><br>"
