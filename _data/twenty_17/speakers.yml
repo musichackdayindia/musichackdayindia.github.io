@@ -1,20 +1,20 @@
-- title: Name
+- title: Dr. Xavier Serra
   name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  subtitle: Music Technology Group, UPF, Barcelona
+  img: xavierserra.jpeg
+  thumbnail: xavierserra.jpeg
   alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  topic: Audio Signal Processing, Sound & Music computing, Computational Musiciology
+  description: "Director of Music Technology Group, Barcelona, Spain<br><a href='https://en.wikipedia.org/wiki/Xavier_Serra' target='_blank'>Website</a></br>"
 
-- title: Name
+- title: Prof. Preeti Rao
   name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  subtitle: Digital Audio Processing Lab, IIT, Mumbai
+  img: preetirao.jpg
+  thumbnail: preetirao.jpg
   alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  topic: Speech & Audio Signal Processing, Music Information Retrieval
+  description: "Head of Digital Audio Processing Lab, IIT, Mumbai<br><a href='https://www.ee.iitb.ac.in/web/people/faculty/home/prao' target='_blank'>Website</a></br>"
 
 - title: Name
   name: Name-3
