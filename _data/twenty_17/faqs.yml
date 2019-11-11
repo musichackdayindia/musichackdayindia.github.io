@@ -12,3 +12,6 @@
 
 - question: Can I just come to attend the Algorave concerts and panel discussions without participating in the hackthon?
   answer: Yes, of course. You are most welcome to attend to the concerts, panel discussions and prize distribution ceremony without any registrations (subject to availability). 
+
+- question: Can I prepare my project before hand from home instead of doing it all during the hackathon?
+  answer: The real spirit of hackathon lies in hacking existing technologies, ie. whatever available at the moment to make interesting projects. However, you can always prepare the supporting technolgies that is required to faciliate your hack project (ie, such as SDKs, APIs, Hardware boards etc).
