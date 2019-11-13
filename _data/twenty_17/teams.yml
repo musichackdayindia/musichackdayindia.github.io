@@ -72,7 +72,7 @@
 
 - title: Aditya Nandwana
   name: Name-9
-  subtitle: Animal Factory Amplification
+  subtitle: Animal Factory Amplification, Mumbai
   img: aditya.jpg
   thumbnail: aditya.jpg
   alt: Picture of TBD
@@ -80,7 +80,7 @@
   description: "Founder - Animal Factory Amplification, Mumbai, India<br><a href='Animal Factory Amplification' target='_blank'>Website</a></br>"
 
 - title: Kaustuv Kanti Ganguli
-  name: Name-9
+  name: Name-10
   subtitle: NYU, Abu Dhabi
   img: kaustav.jpg
   thumbnail: kaustav.jpg
@@ -89,7 +89,7 @@
   description: "Post-doc at NYU, Abu Dhabi, UAE<br><a href='https://www.linkedin.com/in/kaustuv-kanti-ganguli-57927363/' target='_blank'>Website</a></br>"
 
 - title: Akash
-  name: Name-10
+  name: Name-11
   subtitle: sound.codes, Algorave India, Gharana Project
   img: akash.jpg
   thumbnail: akash.jpg
@@ -98,7 +98,7 @@
   description: "Artist, Researcher, Founder - sound.codes, Gharana Project, Tribal Tron, Co-instigator . Algorave India<br><a href='https://sound.codes' target='_blank'>Website</a></br>"
 
 - title: Rohit MA
-  name: Name-11
+  name: Name-12
   subtitle: IIT, Mumbai
   img: rohit.jpg
   thumbnail: rohit.jpg
@@ -107,7 +107,7 @@
   description: "Digital Audio Processing Lab, IIT, Mumbai, India<br><a href='https://www.linkedin.com/in/rohit-m-a-589aab78/' target='_blank'>Website</a></br>"
 
 - title: Krishna Subramani
-  name: Name-12
+  name: Name-13
   subtitle: IIT, Mumbai
   img: krishna.png
   thumbnail: krishna.png
@@ -115,14 +115,23 @@
   topic: Topic
   description: "Digital Audio Processing Lab, IIT, Mumbai<br><a href='https://www.linkedin.com/in/krishna-subramani-bb865a146/' target='_blank'>Website</a></br>"
 
-
 - title: Anchit Patni
-  name: Name-13
+  name: Name-14
   subtitle: Creative Technologist & Music Producer
   img: anchit.jpg
   thumbnail: anchit.jpg
   alt: Picture of TBD
   topic: Topic
   description: "Creative Technologist, Music Producer, Bangalore, India<br><a href='https://www.linkedin.com/in/anchit-patni-92382437/' target='_blank'>Website</a></br>"
+
+- title: Kushagra Sharma
+  name: Name-15
+  subtitle: Full-Stack Developer, Radiuz, Netherlands
+  img: kush.png
+  thumbnail: kush.png
+  alt: Picture of TBD
+  topic: Topic
+  description: "Full-Stack Developer, Radius, Utrecht, Netherlands<br><a href='https://www.linkedin.com/in/kushshr/' target='_blank'>Website</a></br>"
+
 
 
