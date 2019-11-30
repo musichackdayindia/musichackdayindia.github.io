@@ -52,53 +52,8 @@
   topic: Topic
   description: "PhD student at MIT Media Lab, Boston, USA<br><a href='https://manaswimishra.com/' target='_blank'>Website</a></br>"
 
-- title: Tejaswinee Kelkar
-  name: Name-7
-  subtitle: University of Oslo, Norway
-  img: tejaswinee.jpg
-  thumbnail: tejaswinee.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: "PhD Research Fellow at University of Oslo, Norway<br><a href='http://tejaswinee.com/' target='_blank'>Website</a></br>"
-
-- title: Ajay Srinivasamoorthy
-  name: Name-8
-  subtitle: Alexa Speech, Amazon.com, India
-  img: ajay.jpg
-  thumbnail: ajay.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: "Applied Scientist @ Alexa Speech, Amazon.com, India<br><a href='http://www.ajaysrinivasamurthy.in/' target='_blank'>Website</a></br>"
-
-- title: Aditya Nandwana
-  name: Name-9
-  subtitle: Animal Factory Amplification, Mumbai
-  img: aditya.jpg
-  thumbnail: aditya.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: "Founder - Animal Factory Amplification, Mumbai, India<br><a href='Animal Factory Amplification' target='_blank'>Website</a></br>"
-
-- title: Kaustuv Kanti Ganguli
-  name: Name-10
-  subtitle: NYU, Abu Dhabi
-  img: kaustav.jpg
-  thumbnail: kaustav.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: "Post-doc at NYU, Abu Dhabi, UAE<br><a href='https://www.linkedin.com/in/kaustuv-kanti-ganguli-57927363/' target='_blank'>Website</a></br>"
-
-- title: Akash
-  name: Name-11
-  subtitle: sound.codes, Algorave India, Gharana Project
-  img: akash.jpg
-  thumbnail: akash.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: "Artist, Researcher, Founder - sound.codes, Gharana Project, Tribal Tron, Co-instigator . Algorave India<br><a href='https://sound.codes' target='_blank'>Website</a></br>"
-
 - title: Rohit MA
-  name: Name-12
+  name: Name-7
   subtitle: IIT, Mumbai
   img: rohit.jpg
   thumbnail: rohit.jpg
@@ -106,17 +61,8 @@
   topic: Topic
   description: "Digital Audio Processing Lab, IIT, Mumbai, India<br><a href='https://www.linkedin.com/in/rohit-m-a-589aab78/' target='_blank'>Website</a></br>"
 
-- title: Krishna Subramani
-  name: Name-13
-  subtitle: IIT, Mumbai
-  img: krishna.png
-  thumbnail: krishna.png
-  alt: Picture of TBD
-  topic: Topic
-  description: "Digital Audio Processing Lab, IIT, Mumbai<br><a href='https://www.linkedin.com/in/krishna-subramani-bb865a146/' target='_blank'>Website</a></br>"
-
 - title: Anchit Patni
-  name: Name-14
+  name: Name-8
   subtitle: Creative Technologist & Music Producer
   img: anchit.jpg
   thumbnail: anchit.jpg
@@ -125,7 +71,7 @@
   description: "Creative Technologist, Music Producer, Bangalore, India<br><a href='https://www.linkedin.com/in/anchit-patni-92382437/' target='_blank'>Website</a></br>"
 
 - title: Kushagra Sharma
-  name: Name-15
+  name: Name-9
   subtitle: Full-Stack Developer, Radiuz, Netherlands
   img: kush.png
   thumbnail: kush.png
