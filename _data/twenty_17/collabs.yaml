@@ -34,8 +34,26 @@
   topic: Topic
   description: "Artist, Researcher, Founder - sound.codes, Gharana Project, Tribal Tron, Co-instigator . Algorave India<br><a href='https://sound.codes' target='_blank'>Website</a></br>"
 
-- title: Kaustuv Kanti Ganguli
+- title: Ashish Dubey
   name: Name-14
+  subtitle: Software Engineering at Grofers
+  img: ashish.png
+  thumbnail: ashish.png
+  alt: Picture of TBD
+  topic: Topic
+  description: "Software Engineering at Grofers"
+
+- title: Jitin John
+  name: Name-15
+  subtitle: Music Management
+  img: jitin.png
+  thumbnail: jitin.png
+  alt: Picture of TBD
+  topic: Topic
+  description: "Jitin started his career, as a radio host at Bombay’s premier radio stations TimesFM and Go 92.5FM. This was followed by a stint at MTV, working with record labels, programming music and promoting artists. He was called in to develop the creative and business plan for India’s first international music channel, Vh1 India, and led the creative and content through the first 3 years of the channel’s existence. He has been involved with live entertainment in India, having brought to India acts such as Alanis Morissette, Herbie Hancock, John Digweed & Mobb Deep among others."
+
+- title: Kaustuv Kanti Ganguli
+  name: Name-16
   subtitle: NYU, Abu Dhabi
   img: kaustav.jpg
   thumbnail: kaustav.jpg
@@ -44,7 +62,7 @@
   description: "Post-doc at NYU, Abu Dhabi, UAE<br><a href='https://www.linkedin.com/in/kaustuv-kanti-ganguli-57927363/' target='_blank'>Website</a></br>"
 
 - title: Krishna Subramani
-  name: Name-15
+  name: Name-17
   subtitle: IIT, Mumbai
   img: krishna.png
   thumbnail: krishna.png
