@@ -1,0 +1,27 @@
+---
+layout: 2019_default
+permalink: /2019/faqs
+title: Frequently Asked Questions (FAQ)
+published: true
+---
+    <!--background color-->
+    <script type="text/javascript">
+        document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
+    </script>
+
+    <div class="event black-frame">
+      <h1 class="title">{{ page.title }}</h1>
+
+      <div><h3 class="section-subheading text-muted"></h3></div>
+        <ol>
+            {% for faq in site.data.twenty_19.faqs %}
+                <li><b>{{ faq.question }}</b>
+                    <br>{{ faq.answer }}<br><br>
+                </li>
+            {% endfor %}
+        </ol>
+        <p>
+            For further enquiries, kindly submit your question via the <a href="/#contacts">contact us</a> 
+            page or send us an email at <a href="musictechcommunity.india@gmail.com">musictechcommunity.india@gmail.com</a> 
+        </p>
+    </div>
