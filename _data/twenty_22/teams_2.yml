@@ -1,9 +1,4 @@
-- name: Name-1
-  position: Position
-  img: TBD.jpg
-  email: hello.world@gmail.com
-
-- name: Name-2
-  position: Position
+- name: TBD
+  position: TBD
   img: TBD.jpg
   email: hello.world@gmail.com

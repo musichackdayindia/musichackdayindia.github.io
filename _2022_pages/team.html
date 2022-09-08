@@ -2,6 +2,7 @@
 layout: 2022_default
 permalink: /team
 title: Team Member
+published: false
 ---
   <!--background color-->
   <script type="text/javascript">
@@ -14,7 +15,7 @@ title: Team Member
   
     {% for team in site.data.twenty_22.teams_1 %}
     <div class="team-member">
-      <img class="team-photo" src="../css/2016_style/img/team/{{ team.img }}">
+      <img class="team-photo" src="../css/2022_style/img/team/{{ team.img }}">
       <!-- https://s.gravatar.com/avatar/0000000000000000?s=160 for Gravatar-->
       <h3>{{ team.name }}</h3>
       <span>{{ team.position }}</span>
@@ -28,7 +29,7 @@ title: Team Member
 
     {% for team in site.data.twenty_22.teams_2 %}
     <div class="team-member">
-      <img class="team-photo" src="../css/2016_style/img/team/{{ team.img }}">
+      <img class="team-photo" src="../css/2022_style/img/team/{{ team.img }}">
       <!-- https://s.gravatar.com/avatar/0000000000000000?s=160 for Gravatar-->
       <h3>{{ team.name }}</h3>
       <span>{{ team.position }}</span>
