@@ -1,0 +1,23 @@
+- time: 9:00 AM - 09:30 PM
+  info: "<u>Opening ceremony</u><br><b>General information about the event</b><br><i>of10, Powai, Mumbai</i><br><br>"
+
+- time: 9:30 AM - 10:30 PM
+  info: "<u>Hackathon</u><br><b>Presentation by the mentors</b><br><i>of10, Powai, Mumbai</i><br><br>"
+
+- time: 10:30 AM - 11:00 PM
+  info: "<u>Coffee break</u><br><b>Networking</b><br><i>of10, Powai, Mumbai</i><br><br>"
+
+- time: 11:00 AM - 14:00 H
+  info: "<u>Continue hacking</u><br><b>The hack contiunues ...</b><br><i>of10, Powai, Mumbai</i><br><br>"
+
+- time: 14:00 H - 14:30 H
+  info: "<u>Lunch break</u><br><b>Lunch</b><br><i>of10, Powai, Mumbai</i><br><br>"
+
+- time: 14:30 H - 17:30 H
+  info: "<u>Continue hacking</u><br><b>The hack contiunues ...</b><br><i>of10, Powai, Mumbai</i><br><br>"
+
+- time: 17:30 H - 18:30 H
+  info: "<u>Stop the hacks at venue</u><br><b>Drinks & networking</b><br><i>Self-organised</i><br><br>"
+
+- time: 20:00 H - 21:00 H
+  info: "<u>Algorave Concert</u><br><b>Khoparzi, substance D, Tig3rbabu and more</b><br><i>Studio Camp, Khar, Mumbai</i><br><br>"
