@@ -63,7 +63,7 @@ GEM
     webrick (1.7.0)
 
 PLATFORMS
-  x86_64-darwin-19
+  arm64-darwin-21
 
 DEPENDENCIES
   jekyll-seo-tag (~> 2.8)
