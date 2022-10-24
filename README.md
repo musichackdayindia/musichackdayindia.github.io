@@ -8,5 +8,5 @@ Thanks to Melvon Ch'ng for developing the nice jekyll theme.
 
 - Install [Jekyll](https://jekyllrb.com/docs/installation/) on your local system.
 
-- Run `jekyll serve` command from terminal and direct to http://localhost:4000
+- Run `bundle exec jekyll serve` command from terminal and direct to http://localhost:4000
 
