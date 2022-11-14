@@ -1,0 +1,26 @@
+- title: Abhinay Khoparzi
+  name: Name-4
+  subtitle: Algorave India
+  img: abhinay.jpg
+  thumbnail: abhinay.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: "Creative Technologist, Co-founder - Algorave India<br><a href='http://khoparzi.com/' target='_blank'>Website</a></br>"
+
+- title: Srikanth Cherla
+  name: Name-5
+  subtitle: Unity Labs
+  img: srikanth.png
+  thumbnail: srikanth.png
+  alt: Picture of TBD
+  topic: Topic
+  description: "Senior ML Engineer at Unity Labs, Denmark<br><a href='https://www.linkedin.com/in/srikanth-cherla-ab4b4814/' target='_blank'>Website</a></br>"
+
+# - title: Ashish Dubey
+#   name: Name-6
+#   subtitle: Beatoven
+#   img: ashish.png
+#   thumbnail: ashish.png
+#   alt: Picture of TBD
+#   topic: Topic
+#   description: "Engineering at Beatoven, India"
