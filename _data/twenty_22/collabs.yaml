@@ -25,6 +25,15 @@
   topic: Topic
   description: "Lead Research Scientist at Beatoven<br><a href='https://aframires.github.io/' target='_blank'>Website</a></br>"
 
+- title: Pablo Alonso
+  name: Name-8
+  subtitle: Music Technology Group, UPF
+  img: pablo.jpg
+  thumbnail: pablo.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: "PHD student at Music Technology Group, UPF<br><a href='https://twitter.com/pablo__alonso' target='_blank'>Website</a></br>"
+
 # - title: Ashish Dubey
 #   name: Name-6
 #   subtitle: Beatoven
