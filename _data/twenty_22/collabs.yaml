@@ -53,11 +53,26 @@
   description: "Product Developer at Soundly<br><a href='https://prashantmishra.xyz/linkinbio' target='_blank'>Website</a></br>"
 
 
-# - title: Ashish Dubey
-#   name: Name-6
-#   subtitle: Beatoven
-#   img: ashish.png
-#   thumbnail: ashish.png
-#   alt: Picture of TBD
-#   topic: Topic
-#   description: "Engineering at Beatoven, India"
+- title: Ashish Dubey
+  name: Name-6
+  subtitle: Beatoven
+  img: ashish.png
+  thumbnail: ashish.png
+  alt: Picture of TBD
+  topic: Topic
+  description: "Engineering at Beatoven, India"
+  
+ 
+- title: Xavier Favory
+  name: Name-7
+  subtitle: Utopia Music
+  img: xavier.png
+  thumbnail: xavier.png
+  alt: Picture of TBD
+  topic: Topic
+  description: "Data Scientist, Utopia Music"
+  
+  
+ 
+  
+  
