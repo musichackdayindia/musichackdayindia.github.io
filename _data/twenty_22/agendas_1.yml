@@ -26,4 +26,7 @@
   info: "<u>Continue hacking</u><br><b>The hack contiunues ...</b><br><i>91 Springboard, M.G Road</i><br><br>"
 
 - time: 06:30 PM
-  info: "<u>Stop hacks at the venue</u><br><b></b><br><i>Self-organised</i><br><br>"
+  info: "<u>Stop hacks at the venue (it can be continued offline)</u><br><b></b><br><i>Self-organised</i><br><br>"
+  
+ - time: 07:00 PM - 11:00 PM
+  info: "<u>Algorave concert</u><br><b>Audio visual live coding performances</b><br><i>Walkin Studios, J.P Nagar</i><br><br>"
