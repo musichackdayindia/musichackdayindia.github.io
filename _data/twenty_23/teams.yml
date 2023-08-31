@@ -1,0 +1,27 @@
+
+- title: Siddharth Bhardwaj
+  name: Name-1
+  subtitle: Beatoven
+  img: sid.jpg
+  thumbnail: sid.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: "CTO, Beatoven, India<br><a href='https://www.linkedin.com/in/sid0710/' target='_blank'>Website</a></br>"
+
+- title: Albin Correya
+  name: Name-2
+  subtitle: Moodagent
+  img: albin.jpg
+  thumbnail: albin.jpg
+  alt: Picture of TBD
+  # topic: Music Information Retrieval, Web Audio, Sound & Music Computing, MLOps
+  description: "ML Engineering at Moodagent, Denmark<br><a href='https://albincorreya.github.io' target='_blank'>Website</a></br>"
+
+- title: Manaswi Mishra
+  name: Name-3
+  subtitle: MIT Media Labs
+  img: manaswi.png
+  thumbnail: manaswi.png
+  alt: Picture of TBD
+  topic: Topic
+  description: "PhD student at MIT Media Labs, USA<br><a href='https://manaswimishra.com/' target='_blank'>Website</a></br>"

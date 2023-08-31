@@ -1,6 +1,6 @@
-title: Music Hack Day India, 2022
+title: Music Hack Day India, 2023
 description: > # this means to ignore newlines until "baseurl:"
-  Music Hack Day India, 2022
+  Music Hack Day India, 2023
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "musichackdayindia.github.io" # the base hostname & protocol for your site
 # Build settings
@@ -9,7 +9,7 @@ markdown: kramdown
 facebook:
   app_id: 
 
-logo: "../css/2022_style/img/mhd-india-logo.png"
+logo: "../css/2023_style/img/mhd-india-logo.png"
 
 social: 
   name: Music Tech Community India
@@ -17,7 +17,7 @@ social:
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
-include: ['_2019_pages', '_2022_pages']
+include: ['_2019_pages', '_2022_pages', '_2023_pages']
 
 plugins:
   - jekyll-sitemap

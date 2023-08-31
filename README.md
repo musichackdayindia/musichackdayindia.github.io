@@ -6,7 +6,19 @@ Thanks to Melvon Ch'ng for developing the nice jekyll theme.
 
 ## Setup
 
+### Without docker
+
+Make sure you install Jekyll no your system.
+
 - Install [Jekyll](https://jekyllrb.com/docs/installation/) on your local system.
 
 - Run `bundle exec jekyll serve` command from terminal and direct to http://localhost:4000
 
+
+### Using docker
+
+Make sure you have docker installed on your system.
+
+- Build image using `make build` command.
+
+- Serve the website locally using `make serve` command.

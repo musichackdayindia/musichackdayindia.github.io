@@ -1,0 +1,32 @@
+- time: 9:00 AM - 09:30 AM
+  info: "<u>Opening session</u><br><b>General information about the event</b><br><i>91 Springboard, M.G Road</i><br><br>"
+
+- time: 9:30 AM
+  info: "<u>Hackathon Begins</u><br><b></b><br><i>91 Springboard, M.G Road</i><br><br>"
+
+- time: 9:30 AM - 10:30 AM
+  info: "<u>Coffee</u><br><b>Networking and Social</b><br><i>91 Springboard, M.G Road</i><br><br>"
+  
+- time: 10:30 AM - 11:30 AM
+  info: "<u>Workshop and Demo</u><br><b>Presentation by the mentors</b><br><i>91 Springboard, M.G Road</i><br><br>"
+
+- time: 11:30 AM - 02:00 PM
+  info: "<u>Continue hacking</u><br><b>The hack contiunues ...</b><br><i>91 Springboard, M.G Road</i><br><br>"
+
+- time: 02:00 PM - 02:30 PM
+  info: "<u>Lunch break</u><br><b>Lunch</b><br><i>91 Springboard, M.G Road</i><br><br>"
+
+- time: 02:30 PM - 04:00 PM
+  info: "<u>Continue hacking</u><br><b>The hack contiunues ...</b><br><i>91 Springboard, M.G Road</i><br><br>"
+  
+- time: 04:00 PM - 5:00 PM
+  info: "<u>Troubleshooting session</u><br><b>Optional session with the mentors</b><br><i>91 Springboard, M.G Road</i><br><br>"
+  
+- time: 05:00 PM - 06:30 PM
+  info: "<u>Continue hacking</u><br><b>The hack contiunues ...</b><br><i>91 Springboard, M.G Road</i><br><br>"
+
+- time: 06:30 PM
+  info: "<u>Stop hacks at the venue (it can be continued offline)</u><br><b></b><br><i>Self-organised</i><br><br>"
+  
+- time: 07:00 PM - 11:00 PM
+  info: "<u>Algorave concert</u><br><b>Audio visual live coding performances</b><br><i>Walkin Studios, J.P Nagar</i><br><br>"

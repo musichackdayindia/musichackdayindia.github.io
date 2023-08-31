@@ -1,0 +1,14 @@
+- time: 09:00 AM - 02:00 PM
+  info: "<u>Hackathon</u><br><b>Continue hacks at the venue</b><br><i>91 Springboard, M.G Road</i><br><br>"
+  
+- time: 02:00 PM - 02:30 PM
+  info: "<u>Lunch break</u><br><b>Lunch</b><br><i>91 Springboard, M.G Road</i><br><br>"
+
+- time: 02:30 PM - 03:30 PM
+  info: "<u>Hack Presentations</u><br><b>Final presentations and/or demos by the hackers</b><br><i>91 Springboard, M.G Road</i><br><br>"
+ 
+- time: 03:30 PM - 04:30 PM
+  info: "<u>Q&A Session with panel</u><br><b>Interactive discussion with experts</b><br><i>91 Springboard, M.G Road</i><br><br>"
+
+- time: 04:30 PM - 6:00 PM
+  info: "<u>Networking</u><br><b>Informal Social event</b><br><i>91 Springboard, M.G Road</i><br><br>"
